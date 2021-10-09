@@ -1,0 +1,13 @@
+.login {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login button{
+    color: white;
+    background-color: rgb(36, 93, 248);
+    padding: 6px 14px;
+    border-radius: 24px 6px;
+}
